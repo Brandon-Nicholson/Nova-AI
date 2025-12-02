@@ -1,0 +1,39 @@
+# Web framework & API
+fastapi
+uvicorn[standard]
+python-multipart
+aiofiles
+
+# Config & environment
+python-dotenv
+
+# Database & ORM
+sqlalchemy>=2.0
+psycopg2-binary
+
+# Timezone data
+tzdata
+
+# Speech-to-text / audio
+faster-whisper
+ctranslate2
+sounddevice
+numpy
+
+# Text-to-speech & playback
+edge-tts
+pygame
+
+# LLM integration (Ollama)
+ollama
+
+# ML / NLP stacktorch
+torch
+transformers[torch]
+scikit-learn
+pandas
+datasets
+evaluate
+
+
+
