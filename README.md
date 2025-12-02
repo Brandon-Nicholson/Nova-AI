@@ -1,2 +1,2 @@
 # Nova-AI
-A virtual assistant.
+Building a multimodal voice AI assistant with agentic orchestration, NLP pipelines, and a FastAPI backend.
